@@ -1,2 +1,2 @@
 # onairdraw
-drawing on air using python
+drawing on air using computer vision techniques and open-cv
